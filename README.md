@@ -27,9 +27,11 @@ Se calcularon métricas básicas para entender la estructura de cada discurso:
 
   3. Análisis Temático Avanzado (con spaCy)
   
-Para revelar el núcleo temático de cada discurso, se utilizó la librería spaCy (modelo en inglés en_core_web_sm):Lematización: Cada palabra fue reducida a su raíz o lema, garantizando que las variaciones de una misma palabra se cuenten juntas
+Para revelar el núcleo temático de cada discurso, se utilizó la librería spaCy (modelo en español es_core_web_sm)
 
-Filtrado: Eliminación de stopwords (palabras comunes como "el", "de", "y") y signos de puntuación.Frecuencia: Se utilizó Counter para obtener las palabras temáticas más frecuentes de cada texto.
+- Lematización: Cada palabra fue reducida a su raíz o lema, garantizando que las variaciones de una misma palabra se cuenten juntas
+
+- Filtrado: Eliminación de stopwords (palabras comunes como "el", "de", "y") y signos de puntuación.Frecuencia: Se utilizó Counter para obtener las palabras temáticas más frecuentes de cada texto.
 
 4. Resultados y Conclusiones Temáticas
 
