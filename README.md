@@ -25,7 +25,7 @@ Se calcularon métricas básicas para entender la estructura de cada discurso:
 
 - Complejidad Sintáctica: Medición de la Longitud Media de Frase (palabras por frase) para inferir la densidad y el estilo de redacción de cada texto.
 
-  3. Análisis Temático Avanzado (con spaCy)
+3. Análisis Temático Avanzado (con spaCy)
   
 Para revelar el núcleo temático de cada discurso, se utilizó la librería spaCy (modelo en español es_core_web_sm)
 
