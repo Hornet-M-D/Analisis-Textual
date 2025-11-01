@@ -1,4 +1,4 @@
-#Análisis Comparativo de Textos Históricos: Guerra de los 30 Años vs. Guerras Napoleónicas
+# Análisis Comparativo de Textos Históricos: Guerra de los 30 Años vs. Guerras Napoleónicas
 
 por: David Alejandro Restrepo Tuberquia
 
